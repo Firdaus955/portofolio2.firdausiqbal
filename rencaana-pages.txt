@@ -1,3 +1,7 @@
 membuat halaman login 
 membuat halaman contact
 membuat halaman profile
+
+
+--
+membuat project menggunakan laravel
